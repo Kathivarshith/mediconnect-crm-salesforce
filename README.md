@@ -37,3 +37,8 @@ Objects used:
 - Patient Portal
 - LWC Appointment Scheduler
 - SMS Notifications
+
+
+##
+KATHI VARSHITH
+kathivarshithgoud59@gmail.com
